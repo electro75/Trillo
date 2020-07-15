@@ -20,3 +20,6 @@ Can be run by cloning this project and opening the index.html file.
     flex: 1
     // the element will cover the entire remaining space.
     ```
+
+### SVG Icons : 
+- Its considered a better practise to use these instead of font icons as they are more readable. This project uses svg icons from [here](https://icomoon.io/)
